@@ -75,7 +75,7 @@ ActiveRecord::Schema.define(:version => 20140418061014) do
   end
 
   create_table "restaurants", :force => true do |t|
-    t.string   "place_id
+    t.string   "place_id"
     t.string   "name",       :null => false
     t.string   "address"
     t.string   "tel"
