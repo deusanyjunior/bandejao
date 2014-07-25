@@ -1,0 +1,19 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  placescategory: 
+  name: MyString
+  address: MyString
+  tel: MyString
+  latitude: MyString
+  longitude: MyString
+  metatags: MyText
+
+two:
+  placescategory: 
+  name: MyString
+  address: MyString
+  tel: MyString
+  latitude: MyString
+  longitude: MyString
+  metatags: MyText

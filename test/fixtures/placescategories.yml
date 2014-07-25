@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  campus: 
+  name: MyString
+  abbreviation: MyString
+
+two:
+  campus: 
+  name: MyString
+  abbreviation: MyString

@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  restaurant: 
+  meal: 
+  wday: 1
+  open: MyString
+  close: MyString
+
+two:
+  restaurant: 
+  meal: 
+  wday: 1
+  open: MyString
+  close: MyString

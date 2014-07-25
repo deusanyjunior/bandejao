@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  day: 2013-05-01
+  restaurant: 
+  meal: 
+  options: MyText
+  kcal: MyString
+
+two:
+  day: 2013-05-01
+  restaurant: 
+  meal: 
+  options: MyText
+  kcal: MyString
